@@ -34,11 +34,11 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a href="https://halaproliu.github.io/webdoc/#/" target="_blank" alt="github pages" title="github pages">
-    <img src="https://img.icons8.com/ios-filled/50/000000/book.png"/>
+    <img height="25" src="https://img.icons8.com/ios-filled/50/000000/book.png"/>
   </a>
   &emsp;
   <a href="https://halaproliu.github.io" target="_blank" alt="blog" title="blog">
-    <img src="https://img.icons8.com/external-itim2101-lineal-itim2101/64/000000/external-blog-smartphone-technology-itim2101-lineal-itim2101.png"/>
+    <img height="25" src="https://img.icons8.com/external-itim2101-lineal-itim2101/64/000000/external-blog-smartphone-technology-itim2101-lineal-itim2101.png"/>
   </a>
   &emsp;
   <a href="https://www.jianshu.com/u/fdf0c90358ac" target="_blank" alt="jianshu" title="jianshu">
