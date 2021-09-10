@@ -68,9 +68,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/halaproliu?tab=repositories">
     <img src="https://badges.pufler.dev/repos/halaproliu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/halaproliu">
-    <img src="https://badges.pufler.dev/gists/halaproliu?style=flat-square&color=black&logo=github">
-  </a>
   <a href="https://github.com/halaproliu">
     <img src="https://badges.pufler.dev/commits/monthly/halaproliu?style=flat-square&color=black&logo=github">
   </a>
